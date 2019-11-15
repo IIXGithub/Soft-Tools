@@ -132,9 +132,6 @@ exp：
 
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 开源SQLite 辅助工具
 
-- [Alibaba Java Coding Guidelines pmd implements and IDE plugin ](https://github.com/alibaba/p3c)
-
-
 > Refs  
 
 - [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins)
@@ -142,6 +139,16 @@ exp：
 - [Android-Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio插件整理/)
 
 - [Android-Studio-Plugins](https://github.com/balsikandar/Android-Studio-Plugins)
+
+## IntelliJ
+
+- [Alibaba Java Coding Guidelines pmd implements and IDE plugin ](https://github.com/alibaba/p3c)    
+
+- [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox/) 配合版本控制工具git使用    
+
+- [GsonFormat](https://plugins.jetbrains.com/plugin/7654-gsonformat/) 一键生成对应实体对象    
+
+- [iBATIS/MyBatis plugin](https://plugins.jetbrains.com/plugin/6725-ibatis-mybatis-mini-plugin/)mybatis插件    
 
 ## Eclipse 
 
